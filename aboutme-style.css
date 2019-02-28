@@ -1,0 +1,39 @@
+body{
+    background-color: #545143;
+    color: #ffffff;
+}
+
+h1, h3{
+    color: #9FC2F8;
+}
+
+p::first-letter{
+    font-size: 250%;
+}
+
+header span{
+    color: darkorange;
+}
+
+.my-movies a{
+    color: red;
+    text-decoration: none;
+}
+
+.my-movies a:hover{
+    text-decoration: underline;
+}
+
+.my-moods img{
+    height: 225px;
+}
+
+.my-moods img:nth-child(1){
+    width: 300px;;
+}
+
+.facts img{
+    border:0;
+    width:88px;
+    height:31px
+}
